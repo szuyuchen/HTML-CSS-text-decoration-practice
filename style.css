@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+p {
+  color: #fff;
+  font-size: 3rem;
+  text-align: center;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(9, 44, 74);
+}
+
+.line-through {
+  text-decoration: line-through #d2f580;
+}
+
+.underline-1 {
+  text-decoration: underline #f557b6 solid;
+}
+
+.underline-2 {
+  text-decoration: underline #0b74ec double;
+}
+
+.underline-3 {
+  text-decoration: underline #fe9a57 dotted;
+}
+
+.underline-4 {
+  text-decoration: underline #955dea dashed;
+}
+
+.wavy {
+  text-decoration: underline  #23c8f5 wavy;
+}
+
+mark {
+  padding: 3px 10px;
+  background-image: linear-gradient(110deg, #405de6, #f32626, #ffdc80);
+  color: #fff;
+}
