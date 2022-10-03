@@ -1,4 +1,4 @@
-# text-decoration practice
+# HTML-CSS-text-decoration practice
 
 ### Purpose: 
 
@@ -8,7 +8,7 @@
 
 ### Page link:
 
-https://szuyuchen.github.io/text-decoration practice/
+https://szuyuchen.github.io/text-design/
 
 ### Reference: 
 
