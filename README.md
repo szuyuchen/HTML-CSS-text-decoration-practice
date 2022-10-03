@@ -1,5 +1,16 @@
 # text-decoration practice
 
-<img width="500" alt="sample-img" src="https://user-images.githubusercontent.com/112160477/190107578-5c939ff8-af39-41a6-afd4-7a016bfd6e34.png">
+### Purpose: 
 
-Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
+- Use HTML and CSS to create 7 types of text decoration.
+
+<img src="https://github.com/szuyuchen/text-design/blob/main/sample-img.png?raw=true" width=500>
+
+### Page link:
+
+https://szuyuchen.github.io/text-decoration practice/
+
+### Reference: 
+
+- Text-decoration: https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
+
