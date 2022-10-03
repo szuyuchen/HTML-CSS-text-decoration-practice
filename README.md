@@ -8,7 +8,7 @@
 
 ### Page link:
 
-https://szuyuchen.github.io/text-design/
+https://szuyuchen.github.io/HTML-CSS-text-decoration practice/
 
 ### Reference: 
 
